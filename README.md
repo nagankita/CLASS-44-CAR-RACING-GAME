@@ -1,1 +1,2 @@
-# CLASS-44-CAR-RACING-GAME
+# synchronousBallMovement
+Ball moving synchronously
